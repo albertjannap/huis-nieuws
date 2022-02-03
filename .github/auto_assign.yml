@@ -1,0 +1,11 @@
+addReviewers: true
+
+addAssignees: author
+
+reviewers:
+  - mve
+  - niels-bosman
+  - m10rten
+  - albertjannap
+
+numberOfReviewers: 1
